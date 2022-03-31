@@ -4,8 +4,10 @@ Skład
 | Osoba                    | Funkcja                     |GITHUB			                    |
 | :-------------:          | :-------------:             |:-------------:		              |
 | `Maciej Morawski`        | Developer                   | https://github.com/MacMarMor		|
-| `Karolina Maciejewska`   | Developer                   | https://github.com/Karo05107		|
+| `Karolina Maciejewska`   | Developer                   | https://github.com/Karo0510		|
 | `Adam Grzesiak`          | Developer                   | https://github.com/adamg177		|
+
+
 
 
 Informacje
